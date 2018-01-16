@@ -37,16 +37,16 @@ Texts
 - [Walden](http://commons.digitalthoreau.org/walden)
 - ["Resistance to Civil Government"](http://commons.digitalthoreau.org/civil)
 - ["Walking"](http://commons.digitalthoreau.org/walking)
-- ["Slavery in Massachusetts"]
-- ["The Succession of Forest Trees"]
-- ["Life Without Principle"]
+- "Slavery in Massachusetts"
+- "The Succession of Forest Trees"
+- "Life Without Principle"
 - Selections from Thoreau's *Journal*
 - Other Thoreau texts as assigned
 
 ### Other texts
 
-- Erik Reece, *Utopia Drive* (excerpt)
-- Kathryn Schulz, "Pond Scum" from *The New Yorker*
+- Kathryn Schulz, "Pond Scum," from *The New Yorker*
+- Jedidiah Purdy, "A Radical for All Seasons," from *The Nation*
 - Franco Moretti, "Style, Inc.: Reflections on Seven Thousand Titles (British Novels, 1740-1850)," from *Distant Reading*
 - Barbara Herrnstein Smith, "What Was 'Close Reading'?"
 - H.J. Jackson, *Marginalia: Readers Writing in Books* (excerpt)
@@ -59,10 +59,13 @@ Tools and accounts
 ------------------
 
 - Working laptop computer running a reasonably up-to-date version of Mac OS, Windows, or Linux (required - if it breaks, it must be repaired quickly)
-- [Slack](http://slack.com) account (required)
-- [GitHub](http://github.com) account (required)
-- Text editor (e.g., TextWrangler, BBEdit, Notepad++, Caret, Atom - required)
-
+- Text editor (e.g., TextWrangler, BBEdit, Notepad++, Caret, Atom)
+- Accounts at
+	- [English @ SUNY Geneseo](http://sunygeneseoenglish.org) 
+	- [The Readers' Thoreau](http://commons.digitalthoreau.org)
+	- [Slack](http://slack.com)
+	- [GitHub](http://github.com)
+	
 Requirements and evaluation
 ---------------------------
 
@@ -88,7 +91,7 @@ M 1/17: Introduction: Critical Reading and Digital Tools
 
 ### Week 2
 
-M 1/22: Introduction to Thoreau. Read Reece, excerpt from *Utopia Drive*; Schulz, "Pond Scum"
+M 1/22: Introduction to Thoreau. Read Schulz, ["Pond Scum"](https://www.newyorker.com/magazine/2015/10/19/pond-scum); Purdy, ["A Radical for All Seasons"](https://www.thenation.com/article/thoreau-radical-seasons/). Watch ["Concord, which is my Rome”: Henry Thoreau and His Home Town"](https://youtu.be/HXaDh4-iSRc)
 
 W 1/24: Close and Distant Reading. Read Moretti, "Style, Inc."; Smith, "What Was 'Close Reading'?" In class, play with distant reading tools (e.g., [Voyant](http://voyant-tools.org), [Google NGram Viewer](http://ngram.google.com)
 
