@@ -14,14 +14,20 @@ What does critical reading look like in the digital age? We'll attempt to answer
 Learning outcomes
 -----------------
 
-Students in HONR 202 Spring 2018, Critical Reading: Digital Thoreau will
+What will you know and be able to do as a result of taking this course? (If you do the work, that is.)
 
-- understand how the meaning of "critical reading" has and hasn't changed since the advent of computing as a tool for literary and historical study;
-- be able to generate and share critical perspectives on the work of Henry David Thoreau through the use of digital technology;
-- be competent, at a basic level, in using digital methods to carry out three core tasks of the humanities: editing, archiving, and analysis.   
+- You'll understand how the meaning of "critical reading" has and hasn't changed since the advent of computing as a tool for literary and historical study.
+- You'll be able to generate and share critical perspectives on the work of Henry David Thoreau through the use of digital technology.
+- You'll be competent, at a basic level, in using digital methods to carry out three core tasks of the humanities: editing, archiving, and analysis.   
 
 Assessment
 ----------
+
+How will we know if you’ve met these outcomes?
+
+- You'll successfully contribute to the ongoing work of [Digital Thoreau](http://digitalthoreau.org), a resource that uses digital tools for editing, archiving, and analysis to preserve and promote understanding of American writer Henry David Thoreau's legacy. 
+- You'll share your developing critical perspectives on Thoreau and the activity of critical reading through posts to the [Digital Humanities at Geneseo](http://dh.sunygeneseoenglish.org) public blog.
+- You'll successfully complete other assignments that require you to use some basic tools of digital scholarship.
 
 Texts
 -----
