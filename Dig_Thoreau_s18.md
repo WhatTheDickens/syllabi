@@ -54,6 +54,15 @@ Tools and accounts
 Requirements and evaluation
 ---------------------------
 
+- Journal (10 points)
+- Project (40 points)
+	- Individual contributions to project (20 points)
+	- Project as a whole (20 points)
+- Individual blogging (40 points)
+	- 3 short blogposts (15 points)
+	- 1 essay-length blogpost (25 points)
+- Online discussion and commenting (10 points)
+
 Schedule
 --------
 
@@ -73,13 +82,13 @@ W 1/24: Close and Distant Reading. Read Moretti, "Style, Inc."; Smith, "What Was
 
 ### Week 3
 
-M 1/29: What's an Archive(s)? Read ["What's an Archives?"](https://www.archives.gov/about/info/whats-an-archives.html), [About the Internet Archive](https://archive.org/about/). Visit [Omeka.net](http://omeka.net); (Skype visit with Jeff Cramer?)
+M 1/29: What's an Archive(s)? Read ["What's an Archives?"](https://www.archives.gov/about/info/whats-an-archives.html), [About the Internet Archive](https://archive.org/about/). Visit and explore [Omeka.net](http://omeka.net); (Skype visit with Jeff Cramer?)
 
-W 1/31: Visit Walter Harding archive in Milne Library (tentative); explore [The Days of Walter Harding, Thoreau Scholar](http://walterharding.org)
+W 1/31: Annotation and Social Reading. Read Jackson, *Annotation* (excerpt)
 
 ### Week 4
 
-M 2/5: Annotation and Social Reading. Read Jackson, *Annotation* (excerpt)
+M 2/5: Visit Walter Harding archive in Milne Library (tentative); explore [The Days of Walter Harding, Thoreau Scholar](http://walterharding.org)
  
 W 2/7: "Walking" (Readers' Thoreau)
 
