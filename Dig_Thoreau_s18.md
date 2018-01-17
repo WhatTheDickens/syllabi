@@ -81,7 +81,7 @@ Requirements and evaluation
 Schedule
 --------
 
-*In addition to the scheduled class meetings listed below, project groups will be expected to meet once a week with the instructor and/or \[Title\] Kirk Anne.*
+*In addition to the scheduled class meetings listed below, project groups will be expected to meet regularly with the instructor and/or CIT Director of Research Techonology and Strategic Projects Kirk Anne.*
 
 *Please complete any readings listed for a given class meeting **before** the meeting on that date.*
 
