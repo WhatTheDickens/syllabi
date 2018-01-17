@@ -59,7 +59,7 @@ Tools and accounts
 ------------------
 
 - Working laptop computer running a reasonably up-to-date version of Mac OS, Windows, or Linux (required - if it breaks, it must be repaired quickly)
-- Text editor (e.g., TextWrangler, BBEdit, Notepad++, Caret, Atom)
+- Text editor (e.g., TextWrangler, BBEdit, Notepad++, Caret, Atom, Oxygen)
 - Accounts at
 	- [English @ SUNY Geneseo](http://sunygeneseoenglish.org) 
 	- [The Readers' Thoreau](http://commons.digitalthoreau.org)
@@ -93,7 +93,7 @@ M 1/17: Introduction: Critical Reading and Digital Tools
 
 M 1/22: Introduction to Thoreau. Read Schulz, ["Pond Scum"](https://www.newyorker.com/magazine/2015/10/19/pond-scum); Purdy, ["A Radical for All Seasons"](https://www.thenation.com/article/thoreau-radical-seasons/). Watch ["Concord, which is my Rome”: Henry Thoreau and His Home Town"](https://youtu.be/HXaDh4-iSRc)
 
-W 1/24: Close and Distant Reading. Read Moretti, "Style, Inc."; Smith, "What Was 'Close Reading'?" In class, play with distant reading tools (e.g., [Voyant](http://voyant-tools.org), [Google NGram Viewer](http://ngram.google.com)
+W 1/24: Close and Distant Reading. Read Moretti, "Style, Inc."; Smith, "What Was 'Close Reading'?" In class, play with distant reading tools (e.g., [Voyant](http://voyant-tools.org), [Google NGram Viewer](http://ngram.google.com)).
 
 ### Week 3
 
@@ -123,7 +123,7 @@ W 2/21: Marking Up Text. Before class, watch Lynda.com videos on HTML and XML. I
 
 M 2/26: *Walden*, "Reading" through "Visitors" (Readers' Thoreau); Harding, "Five Ways of Looking at *Walden*"
 
-W 2/28: TEI
+W 2/28: Project time
 
 ### Week 8
 
