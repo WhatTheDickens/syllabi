@@ -54,6 +54,8 @@ Texts
 - Henry Petroski, *The Pencil* (excerpt)
 - Walter Harding, "Five Ways of Looking at *Walden*"
 - Cory Doctorow, *Information Doesn't Want to Be Free*
+- Bob Stein, "A Taxonomy of Reading"
+- Paul Schacht, "Annotation"
 
 Tools and accounts
 ------------------
@@ -99,7 +101,7 @@ W 1/24: Close and Distant Reading. Read Moretti, "Style, Inc."; Smith, "What Was
 
 M 1/29: What's an Archive(s)? Read ["What's an Archives?"](https://www.archives.gov/about/info/whats-an-archives.html), [About the Internet Archive](https://archive.org/about/). Visit and explore [Omeka.net](http://omeka.net); (Skype visit with Jeff Cramer, Curator of Collections, Thoreau Institute of the [Walden Woods Project](http://walden.org) Library)
 
-W 1/31: Annotation and Social Reading. Read Jackson, *Annotation* (excerpt)
+W 1/31: Annotation and Social Reading. Read Jackson, *Marginalia* (excerpt); Stein, ["A Taxonomy of Reading"](http://futureofthebook.org/social-reading/introduction/index.html); Schacht, ["Annotation"](https://github.com/WhatTheDickens/digitalpedagogy/blob/master/keywords/annotation.md)
 
 ### Week 4
 
