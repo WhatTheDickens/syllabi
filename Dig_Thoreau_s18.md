@@ -34,7 +34,7 @@ Texts
 
 ### By Henry David Thoreau
 
-- [Walden](http://commons.digitalthoreau.org/walden)
+- [*Walden*](http://commons.digitalthoreau.org/walden)
 - ["Resistance to Civil Government"](http://commons.digitalthoreau.org/civil)
 - ["Walking"](http://commons.digitalthoreau.org/walking)
 - "Slavery in Massachusetts"
@@ -71,14 +71,14 @@ Tools and accounts
 Requirements and evaluation
 ---------------------------
 
-- Journal (10 points)
-- Project (40 points)
+- Journal (10 points), due 4/30
+- Project (40 points), due 5/4
 	- Individual contributions to project (20 points)
 	- Project as a whole (20 points)
 - Individual blogging (40 points)
-	- 3 short blogposts (15 points)
-	- 1 essay-length blogpost (25 points)
-- Online discussion and commenting (10 points)
+	- 3 short blogposts (15 points), due 2/5, 2/19, 3/5 
+	- 1 essay-length blogpost (25 points), due 4/16
+- Online discussion and commenting (10 points), as assigned
 
 Schedule
 --------
@@ -105,31 +105,31 @@ W 1/31: Annotation and Social Reading. Read Jackson, *Marginalia* (excerpt); Ste
 
 ### Week 4
 
-M 2/5: Visit Walter Harding archive in Milne Library (tentative); explore [The Days of Walter Harding, Thoreau Scholar](http://walterharding.org)
+M 2/5: Visit Walter Harding archive in Milne Library (guide: Milne Library Reference Instruction Librarian Liz Argentieri); explore [The Days of Walter Harding, Thoreau Scholar](http://walterharding.org); **first blogpost due.**
  
-W 2/7: "Walking" (Readers' Thoreau)
+W 2/7: ["Walking"](http://commons.digitalthoreau.org/walking) (Readers' Thoreau)
 
 ### Week 5
 
-M 2/12: *Walden*, "Economy" (Readers' Thoreau)
+M 2/12: [*Walden*](http://commons.digitalthoreau.org/walden), "Economy" (Readers' Thoreau)
 
 W 2/14: Versions and Versioning. Read Bryant, *The Fluid Text* (excerpt); "Introduction" to [*Walden: A Fluid-Text Edition*](http://digitalthoreau.org/walden/toc); Lincoln, "Gettysburg Address." Play with fluid-text *Walden interface*.
 
 ### Week 6
 
-M 2/19: *Walden*, "Where I Lived, and What I Lived For" (Readers' Thoreau)
+M 2/19: [*Walden*](http://commons.digitalthoreau.org/walden), "Where I Lived, and What I Lived For" (Readers' Thoreau); **second blogpost due.**
 
 W 2/21: Marking Up Text. Before class, watch Lynda.com videos on HTML and XML. In class, form project groups (Harding archive, Journal taxonomy, new texts for Readers' Thoreau). Explore TEI.
 
 ### Week 7
 
-M 2/26: *Walden*, "Reading" through "Visitors" (Readers' Thoreau); Harding, "Five Ways of Looking at *Walden*"
+M 2/26: [*Walden*](http://commons.digitalthoreau.org/walden), "Reading" through "Visitors" (Readers' Thoreau); Harding, "Five Ways of Looking at *Walden*"
 
 W 2/28: Project time
 
 ### Week 8
 
-M 3/5: *Walden*, "Bean Field" through "Higher Laws" (Readers' Thoreau)
+M 3/5: [*Walden*](http://commons.digitalthoreau.org/walden), "Bean Field" through "Higher Laws" (Readers' Thoreau); **third blogpost due.**
 
 W 3/7: TEI, Markdown, GitHub 
 
@@ -137,13 +137,13 @@ W 3/7: TEI, Markdown, GitHub
 
 ### Week 9
 
-M 3/19: *Walden*, "Brute Neighbors" through "Winter Animals" (Readers' Thoreau)
+M 3/19: [*Walden*](http://commons.digitalthoreau.org/walden), "Brute Neighbors" through "Winter Animals" (Readers' Thoreau)
 
 W 3/21: Journaling and Thoreau's *Journal*. Read selections from *Journal*
 
 ### Week 10
 
-M 3/26: *Walden*, to end
+M 3/26: [*Walden*](http://commons.digitalthoreau.org/walden), to end
 
 W 3/28: Visit from Beth Witherell and/or Ron Clapper?
 
