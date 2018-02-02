@@ -18,7 +18,7 @@ What will you know and be able to do as a result of taking this course? (If you 
 
 - You'll understand how the meaning of "critical reading" has and hasn't changed since the advent of computing as a tool for literary and historical study.
 - You'll be able to generate and share critical perspectives on the work of Henry David Thoreau through the use of digital technology.
-- You'll be competent, at a basic level, in using digital methods to carry out three core tasks of the humanities: editing, archiving, and analysis.   
+- You'll be competent, at a basic level, in using digital methods to carry out three core tasks of the humanities: editing, archiving, and analysis.
 
 Assessment
 ----------
@@ -79,6 +79,11 @@ Requirements and evaluation
 	- 3 short blogposts (15 points), due 2/5, 2/19, 3/5 
 	- 1 essay-length blogpost (25 points), due 4/16
 - Online discussion and commenting (10 points), as assigned
+
+Students with disabilities
+--------------------------
+
+SUNY Geneseo will make reasonable accommodations for persons with documented physical, emotional or learning disabilities. Contact Tabitha Buggie-Hunt, Director of Disability Services to discuss needed accommodations as early as possible in the semester.
 
 Schedule
 --------
