@@ -118,7 +118,7 @@ W 2/7: ["Walking"](http://commons.digitalthoreau.org/walking) (Readers' Thoreau)
 
 M 2/12: [*Walden*](http://commons.digitalthoreau.org/walden), "Economy" (Readers' Thoreau)
 
-W 2/14: Versions and Versioning. Read Bryant, *The Fluid Text* (excerpt); "Introduction" to [*Walden: A Fluid-Text Edition*](http://digitalthoreau.org/walden/toc); Lincoln, "Gettysburg Address." Play with fluid-text *Walden interface*.
+W 2/14: Versions and Versioning. Read Bryant, *The Fluid Text* (excerpt); "Introduction" to [*Walden: A Fluid-Text Edition*](http://digitalthoreau.org/walden/toc); ["Lincoln's Gettysburg Addresses"](https://www.google.com/culturalinstitute/beta/exhibit/lincoln-s-gettysburg-addresses/wReow-98?hl=en) Play with [fluid-text *Walden*](http://digitalthoreau.org/walden/fluid/text/01.html) interface.
 
 ### Week 6
 
