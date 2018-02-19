@@ -124,7 +124,7 @@ W 2/14: Versions and Versioning. Read Bryant, *The Fluid Text* (excerpt); "Intro
 
 M 2/19: [*Walden*](http://commons.digitalthoreau.org/walden), "Where I Lived, and What I Lived For" (Readers' Thoreau); **second blogpost due.**
 
-W 2/21: Marking Up Text. Before class, watch Lynda.com videos on HTML and XML. In class, form project groups (Harding archive, Journal taxonomy, new texts for Readers' Thoreau). Explore TEI.
+W 2/21: Marking Up Text. Before class, watch [Lynda.com video on HTML](https://www.lynda.com/Web-Development-tutorials/importance-HTML/170427/196129-4.html?org=geneseo.edu), Chapters 1-3. In class, form project groups (Harding archive, Journal taxonomy, new texts for Readers' Thoreau). Explore TEI.
 
 ### Week 7
 
