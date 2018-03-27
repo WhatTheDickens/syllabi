@@ -150,25 +150,25 @@ W 3/21: Journaling and Thoreau's *Journal*. Read selections from *Journal*
 
 M 3/26: [*Walden*](http://commons.digitalthoreau.org/walden), to end
 
-W 3/28: Visit from Beth Witherell and/or Ron Clapper?
+W 3/28: Visit from Beth Witherell
 
 ### Week 11
 
 M 4/2: Thoreau, "Resistance to Civil Government" (Readers' Thoreau)
 
-W 4/4: Project updates
+W 4/4: Project time
 
 ### Week 12
 
 M 4/9: Thoreau, "Slavery in Massachusetts"
 
-W 4/11: Project time
+W 4/11: Project updates
 
 ### Week 13
 
-M 4/16: Technologies of Text. Petroski, *Pencil* (excerpt); Linotype? Cronon?
+M 4/16: Technologies of Text. Petroski, *Pencil* (excerpt)
 
-W 4/18: Visit to Rochester?
+W 4/18: Project time
 
 ### Week 14
 
