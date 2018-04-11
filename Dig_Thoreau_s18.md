@@ -77,7 +77,7 @@ Requirements and evaluation
 	- Project as a whole (20 points)
 - Individual blogging (40 points)
 	- 3 short blogposts (15 points), due 2/5, 2/19, 3/5 
-	- 1 essay-length blogpost (25 points), due 4/16
+	- 1 essay-length blogpost (25 points), due 4/23
 - Online discussion and commenting (10 points), as assigned
 
 Students with disabilities
@@ -166,13 +166,13 @@ W 4/11: Project updates
 
 ### Week 13
 
-M 4/16: Technologies of Text. Petroski, *Pencil* (excerpt)
+M 4/16: Technologies of Text. Senchyne, "Print Culture"; Google docs draft of long blogpost due in class 
 
 W 4/18: Project time
 
 ### Week 14
 
-M 4/23: The Future of Text. Read Doctorow, *Information Doesn't Want to Be Free*
+M 4/23: Project time; long blogpost due
 
 W 4/25: Project time
 
