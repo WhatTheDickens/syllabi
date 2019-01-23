@@ -9,11 +9,6 @@ Meetings
 -   Mondays and Wednesdays, 12:30 pm - 2:10 pm Bailey 101
 -   Final meeting (attendance mandatory) on Tuesday, May 14, 12 pm - 3:20 pm
 
-Appointments
-------------
-
-Book one with me [here](http://schacht.youcanbook.me).
-
 Individual learning outcomes
 ----------------------------
 
