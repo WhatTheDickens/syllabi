@@ -61,11 +61,11 @@ How will you know if you’ve met the individual outcomes? How will we know if w
 
 *Your final grade in this course will be based on the number of points you earn out of a maximum of 100 points. You’ll earn points for the activities listed below. You must complete all assigned work to pass the course.*
 
-- **Blog**: You’ll earn up to **30** points for two blog posts (15 points each) in which you reflect on your learning in this course.
+- **Blog**: You’ll earn up to **30** points for two blog posts (15 points each) in which you reflect on your learning in this course. (Due 2/12 and 4/15.)
 - **Blog some more (optional)**: You can earn up to **5** points for up to 5 additional blog posts over the course of the semester. Posts must be directly relevant to our work in the course. Each post will be evaluated based on relevance, quality of writing, and content. You can post to the blog as often as you like, but you can’t earn points for more than one extra-credit post in any given week of the semester.
-- **Journal**: You’ll earn up to **20** points for maintaining a markdown journal in which you write regularly about what you’re learning in the course. You’ll also turn this journal into an e-book.
+- **Journal**: You’ll earn up to **20** points for maintaining an online markdown journal in which you write regularly about what you’re learning in the course. (Due 2/19 and 4/13.)
 - **Annotate**: You’ll earn up to **15** points for 15 annotations that you leave in *Walden*.
-- **Contribute**: You’ll earn up to **35** points for a group project to which you contribute, with **15** of those points coming from your personal contribution to the project
+- **Contribute**: You’ll earn up to **35** points for a group project to which you contribute, with **15** of those points coming from your personal contribution to the project. Your group will write a collective blog post about the project and present the project to the class at our final meeting on May 12.
 
 ## Do you have a disability?
 
@@ -159,6 +159,7 @@ Activity: Who’s here? And why?
 	- Read *The Information*, Chapter 7
 	- Leave a comment on a passage in "Where I Lived" that feels connected to anything in Gleick
 - In class: discussion; more with Git and GitHub
+- **Due: Your journal to date**
 
 ## Weeks 6-8 | Analyzing text
 
@@ -207,7 +208,6 @@ Activity: Who’s here? And why?
 	- Read [*Walden*](https://commons.digitalthoreau.org/walden/),"The Bean-Field"
 	- Leave a comment on anything in "The Bean-Field" that makes you feel joy, wonder, confusion, or anger. Explain your reaction.
 -In class: discussion, python and nltk
-- **Due: Your journal to date**
 
 ### W 3/11
 
