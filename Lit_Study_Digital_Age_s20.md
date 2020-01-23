@@ -5,7 +5,7 @@
 ## Meetings
 
 - Mondays and Wednesdays, 12:30 pm - 2:10 pm Bailey 101
-- Final meeting (attendance mandatory) Tuesday, May 12, 12 pm - 3:20 pm, Bailey 101
+- Final meeting (attendance mandatory) Wednesday, May 13, 12 pm - 3:20 pm, Bailey 101
 
 ## Individual learning outcomes
 
@@ -317,4 +317,4 @@ Activity: Who’s here? And why?
 
 ## Final Meeting
 
-Tuesday, May 12 12 pm - 3:20 pm, Bailey 101
+Wednesday, May 13 12 pm - 3:20 pm, Bailey 101
